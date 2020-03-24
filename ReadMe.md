@@ -6,6 +6,6 @@ Guys drop your project ideas here one by one we will start workig on it
 
 3.Face Recognition Attendence
 
-4.Wallpapers Script --- Working on
+4.Wallpapers Script --- Done👍
 
 [join the Group to discuss](https://chat.whatsapp.com/HBZwGwcRP3QBqeIRIMEc5i)
