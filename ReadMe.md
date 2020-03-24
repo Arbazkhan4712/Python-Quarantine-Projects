@@ -14,4 +14,6 @@ Guys drop your project ideas here one by one we will start workig on it
 
 5.Making an AI that can Play GTA San Andreas Using Python --- Working On it
 
+6. ToDo List App using Android & Java --- Work in Progress
+
 # [Join the Group to discuss](https://chat.whatsapp.com/HBZwGwcRP3QBqeIRIMEc5i)
