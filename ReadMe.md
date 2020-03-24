@@ -16,4 +16,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 6. ToDo List App using Android & Java --- Work in Progress
 
+## Downoad the following software we will need during the projects
+
+1. [AnyDesk](https://anydesk.com/en/downloads)
 # [Join the Group to discuss](https://chat.whatsapp.com/HBZwGwcRP3QBqeIRIMEc5i)
