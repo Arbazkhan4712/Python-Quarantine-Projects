@@ -4,4 +4,6 @@ Guys drop your project ideas here one by one we will start workig on it
 
 2.Django Blog website
 
+3.Face Recognition Attendence
+
 [join the Group to discuss](https://chat.whatsapp.com/HBZwGwcRP3QBqeIRIMEc5i)
