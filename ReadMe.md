@@ -18,5 +18,9 @@ Guys drop your project ideas here one by one we will start workig on it
 
 ## Downoad the following software we will need during the projects
 
-1. [AnyDesk](https://anydesk.com/en/downloads)
+1. [AnyDesk](https://anydesk.com/en/downloads) 
+2. [Git Bash](https://git-scm.com/download)
+3. [Pyhton](https://www.python.org/)
+4. [VS Code](https://code.visualstudio.com/)
+5. [Sublime](https://www.sublimetext.com/)
 # [Join the Group to discuss](https://chat.whatsapp.com/HBZwGwcRP3QBqeIRIMEc5i)
