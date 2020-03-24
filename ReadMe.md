@@ -8,7 +8,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 2.Django Blog website
 
-3.Face Recognition Attendence
+3.Face Recognition Attendence (integration with CCTVs and DVR )
 
 4.Wallpapers Script --- Done👍
 
