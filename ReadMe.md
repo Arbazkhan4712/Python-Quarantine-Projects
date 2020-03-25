@@ -10,6 +10,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 3.Face Recognition Attendence (integration with CCTVs and DVR ) --- Need help in this
 
+4.To make color based detection and tracking the object using openCV 
 
 5.Making an AI that can Play GTA San Andreas Using Python --- Working On it
 
