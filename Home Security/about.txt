@@ -1,0 +1,12 @@
+Haar-based Cascade Classifier, is a very effective object detection method. It is a machine learning approach that consists on training
+the algorithm from a lot of positive and negative images.
+That is what we will be using here in this project. There are tons of different Haar Cascades already trained for you, so you actually 
+don't have to go through all this trouble. For this particular case, we are going to use a face-detector Haar Cascade, once we want to 
+take a picture of the intruder face and send to you via e-mail, so you can send it to the police :)
+
+-> We used a email.log file to keep trace of the time when the last e-mail was sent, so we don't mess up with Gmail sending tons of 
+    e-mails every 10 seconds.
+-> Created a .jpg image that is going to be attached on the e-mail with cv2.imwrite
+-> We used the email library to send an e-mail with an attachment via gmail
+
+** Make sure you change the e-mail variables for your own gmail account.
