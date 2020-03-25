@@ -20,6 +20,10 @@ Guys drop your project ideas here one by one we will start workig on it
 
 2.Django Blog website --- Created by - [Mahesh Sawant](https://github.com/smahesh29) 
   For Working and other details check - [Django-Blog](https://github.com/smahesh29/Django-Blog)
+  
+3. High Qulity YouTube Video Downloader --- Done 👍
+
+4.Making a security camera using laptop webcam and streaming it on local network using flask --- Almost Done by [tushar-mehndiratta](https://github.com/tushar-mehndiratta)
 
 ## Downoad the following software we will need during the projects
 
