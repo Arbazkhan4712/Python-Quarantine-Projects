@@ -27,7 +27,10 @@ Guys drop your project ideas here one by one we will start workig on it
 
 [![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/0)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/0)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/1)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/1)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/2)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/2)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/3)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/3)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/4)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/4)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/5)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/5)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/6)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/6)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/7)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/7)
 
-## Downoad the following software we will need during the projects
+## Downoad the following software we will need during the project
+
+
+# [join the Group to discuss](https://chat.whatsapp.com/HBZwGwcRP3QBqeIRIMEc5i)
 
 1. [AnyDesk](https://anydesk.com/en/downloads) 
 2. [Git Bash](https://git-scm.com/download)
@@ -35,3 +38,4 @@ Guys drop your project ideas here one by one we will start workig on it
 4. [VS Code](https://code.visualstudio.com/)
 5. [Sublime](https://www.sublimetext.com/)
 # [Join the Group to discuss](https://chat.whatsapp.com/HBZwGwcRP3QBqeIRIMEc5i)
+>
