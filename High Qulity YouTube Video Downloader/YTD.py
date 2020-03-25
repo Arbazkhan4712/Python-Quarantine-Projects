@@ -1,6 +1,18 @@
 from tkinter import *
 import youtube_dl
 root=Tk()
+root.title('HD Youtube Video downloader')
+root.iconbitmap(r"yt.ico")
+root.resizable(False,False)
+width = 500
+height = 200
+root.config(bg="indian red")
+# to get the screen in the center
+screen_width = root.winfo_screenwidth()
+screen_height = root.winfo_screenheight()
+x = (screen_width / 2) - (width / 2)
+y = (screen_height / 2) - (height / 2)
+root.geometry("%dx%d+%d+%d" % (width, height, x, y))
 
 ydl_opts = {}
 def download():
