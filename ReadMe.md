@@ -6,19 +6,20 @@ Guys drop your project ideas here one by one we will start workig on it
 
 1.Making a security camera using laptop webcam and streaming it on local network using flask
 
-2.Django Blog website
+2.Face Recognition Attendence (integration with CCTVs and DVR ) --- Need help in this
 
-3.Face Recognition Attendence (integration with CCTVs and DVR ) --- Need help in this
+3.To make color based detection and tracking the object using openCV 
 
-4.To make color based detection and tracking the object using openCV 
+4.Making an AI that can Play GTA San Andreas Using Python --- Working On it
 
-5.Making an AI that can Play GTA San Andreas Using Python --- Working On it
-
-6. ToDo List App using Android & Java --- Work in Progress
+5. ToDo List App using Android & Java --- Work in Progress
 
 ## Projects Completed 
 
 1.Wallpapers Script --- Done👍
+
+2.Django Blog website --- Created by - [Mahesh Sawant](https://github.com/smahesh29) 
+  For Working and other details check - [Django-Blog](https://github.com/smahesh29/Django-Blog)
 
 ## Downoad the following software we will need during the projects
 
