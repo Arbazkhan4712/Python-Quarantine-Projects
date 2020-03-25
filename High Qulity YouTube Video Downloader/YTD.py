@@ -2,22 +2,20 @@ from tkinter import *
 import youtube_dl
 root=Tk()
 
-root.title('Youtube downloader')
-root.geometry("370x23")
 ydl_opts = {}
 def download():
-    link_of_the_video = text_box.get()
+    link_of_the_video = e1.get()
     zxt = link_of_the_video.strip()
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
         ydl.download([zxt])
-
-
-text_box=Entry(root,width=50)
-text_box.insert(string="paste link here...",index=1)
-button=Button(root,text='Download',command=download)
-text_box.grid(row=0,column=0)
-button.grid(row=0,column=1)
-
-
-
+def some_callback(event):
+    if e1.get() == "paste link here..":
+        e1.delete(0, "end")
+lbl1 = Label(root,text="Download Videos with One-Click", fg="black",bg="indian red" ,font=('arial', 16)).place(x=15, y=40)
+e1= Entry(root)
+e1.config(font=('arial', 14), width=27)
+e1.insert(END, "paste link here..")
+e1.bind("<Button-1>", some_callback)
+e1.place(x=20, y=100)
+button=Button(root,text='Download', bg="indianred3", fg="black", font=('arial', 16), command=download).place(x=350,y=90)
 root.mainloop()
