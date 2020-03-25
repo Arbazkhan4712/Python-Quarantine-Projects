@@ -10,11 +10,14 @@ Guys drop your project ideas here one by one we will start workig on it
 
 3.Face Recognition Attendence (integration with CCTVs and DVR ) --- Need help in this
 
-4.Wallpapers Script --- Done👍
 
 5.Making an AI that can Play GTA San Andreas Using Python --- Working On it
 
 6. ToDo List App using Android & Java --- Work in Progress
+
+## Projects Completed 
+
+1.Wallpapers Script --- Done👍
 
 ## Downoad the following software we will need during the projects
 
