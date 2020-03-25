@@ -1,0 +1,6 @@
+What can be improved in this project are listed below:
+1) This Script could start at a given time set by the user earlier or it could be integerated with a phone application.
+2) The script could automatically start recording a video (When it detects any motion)and store it at the end of recording (when motion is not detected for continous 5-10 minutes)
+3) Provide a realtime streaming using local network.
+4) Improve the code by using more Haar Cascade files.
+5) Add a working time for the script: You should be able to run the script only when you are not at house. You can create a new function that checks your calendar to have a sense wheter you are at home or not, so the intruder email will only be fired during hours when you are not at home.
