@@ -16,7 +16,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 6. Typing Speed test using a GUI
 
-7. PDF Book Reader using Voice 
+7. PDF Book Reader with Voice Using pyttsx3 
 
 8. Internet Speed Meter GUI 
 
