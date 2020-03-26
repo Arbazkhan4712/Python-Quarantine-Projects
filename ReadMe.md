@@ -14,6 +14,8 @@ Guys drop your project ideas here one by one we will start workig on it
 
 5. ToDo List App using Android & Java --- Work in Progress
 
+6. To make a programe which extract and detect  the text from any image using python openCV
+
 ## Projects Completed 
 
 1.Wallpapers Script --- Done👍
