@@ -14,6 +14,8 @@ Guys drop your project ideas here one by one we will start workig on it
 
 5. ToDo List App using Android & Java --- Work in Progress
 
+6. Speed typing test using a GUI
+
 ## Projects Completed 
 
 1.Wallpapers Script --- Done👍
@@ -37,7 +39,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 1. [AnyDesk](https://anydesk.com/en/downloads) 
 2. [Git Bash](https://git-scm.com/download)
-3. [Pyhton](https://www.python.org/)
+3. [Python](https://www.python.org/)
 4. [VS Code](https://code.visualstudio.com/)
 5. [Sublime](https://www.sublimetext.com/)
 # [Join the Group to discuss](https://chat.whatsapp.com/HBZwGwcRP3QBqeIRIMEc5i)
