@@ -1,0 +1,60 @@
+from tkinter import *
+import youtube_dl
+import os
+root=Tk()
+root.title('Youtube downloader V-2.0')
+root.geometry("300x130")
+ydl_opts = {}
+def shutcom():
+    global key
+    key=0
+    buttonshut = Button(root, text="yes", command=shutcom,state=DISABLED)
+    buttonshut.grid(row=4, column=1)
+def download(link):
+    link_of_the_video = link
+    zxt = link_of_the_video.strip()
+    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+        ydl.download([zxt])
+
+
+def downloadall():
+    for i in range(4):
+        if i==0 :
+            if text1.get()!='paste link 1 here...':
+                download(text1.get())
+        if i==1:
+            if text2.get() != 'paste link 2 here...':
+                download(text2.get())
+        if i==2:
+            if text3.get() != 'paste link 3 here...':
+                download(text3.get())
+        if i==3:
+            if text4.get() != 'paste link 4 here...':
+                download(text4.get())
+    if key==0:
+        os.system("shutdown /s /t 1")
+
+
+key=1
+text1=Entry(root,width=50)
+text2=Entry(root,width=50)
+text3=Entry(root,width=50)
+text4=Entry(root,width=50)
+
+text1.insert(string='paste link 1 here...',index=1)
+text2.insert(string='paste link 2 here...',index=1)
+text3.insert(string='paste link 3 here...',index=1)
+text4.insert(string='paste link 4 here...',index=1)
+button=Button(root,text='download all',command=downloadall)
+shutlabel=Label(text="do you want to shutdown after all downloads:")
+buttonshut=Button(root ,text="yes",command=shutcom)
+
+text1.grid(row=0,column=0,columnspan=2)
+text2.grid(row=1,column=0,columnspan=2)
+text3.grid(row=2,column=0,columnspan=2)
+text4.grid(row=3,column=0,columnspan=2)
+button.grid(row=5,column=0)
+shutlabel.grid(row=4,column=0)
+buttonshut.grid(row=4,column=1)
+root.mainloop()
+
