@@ -14,11 +14,15 @@ Guys drop your project ideas here one by one we will start workig on it
 
 5. ToDo List App using Android & Java --- Work in Progress
 
+
 6. Typing Speed test using a GUI
 
 7. PDF Book Reader with Voice Using pyttsx3 
 
 8. Internet Speed Meter GUI 
+
+9. To make a programe which extract and detect  the text from any image using python openCV
+
 
 ## Projects Completed 
 
