@@ -7,6 +7,6 @@ fileopen=open(filepath)
 content=fileopen.read()
 spell.set_text(content)
 for err in spell:
-        print("Missspelled word is: "+err.word+' at position '+ str(err.wordpos))
+        print("Misspelled word is: "+err.word+' at position '+ str(err.wordpos))
         
           
