@@ -36,7 +36,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 7. PDF Book Reader with Voice Using pyttsx3 
 
-8. To make a programe which extract and detect  the text from any image using python openCV
+8. To make a program which extract and detect  the text from any image using python openCV
 
 9. Voice Translator
 
