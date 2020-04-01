@@ -41,3 +41,12 @@ PDF & Image Text Reader That can Speak using python , pyttsx3 &  Tesserct
 ```
 pip install pyttsx3
 ```
+
+
+## Owner:
+- [Arbazkhan4712](http://arbaazkhan.ml/)
+
+## License & Copyright
+© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+
+Licensed under the [MIT License](License)
