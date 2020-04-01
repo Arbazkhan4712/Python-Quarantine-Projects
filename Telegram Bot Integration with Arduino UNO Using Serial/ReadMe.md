@@ -19,3 +19,12 @@ pip3 install telepot
 ```
 bot = telepot.Bot('') # add the bot API key
 ```
+
+
+## Owner:
+- [Arbazkhan4712](http://arbaazkhan.ml/)
+
+## License & Copyright
+© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+
+Licensed under the [MIT License](License)
