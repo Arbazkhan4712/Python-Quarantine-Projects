@@ -42,7 +42,7 @@ rek_client=boto3.client('rekognition',
                             region_name='',)# add the region here
 
 ```
-*main.py*
+*recognition.py*
 ```
 rek_client=boto3.client('rekognition',
                         aws_access_key_id='',# add the aws access key
@@ -55,7 +55,7 @@ rek_client=boto3.client('rekognition',
 ```
 bucket = '' #S3 bucket name
 ```
-*main.py*
+*recognition.py*
 ```
 directory = '' #folder name on your raspberry pi
 ```
