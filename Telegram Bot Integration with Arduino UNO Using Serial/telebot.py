@@ -13,7 +13,7 @@ def bot(msg):
 		print ('Got command: %s' % command)
 
 		if  'hello' in command:
-			bot.sendMessage(chat_id, "Hello , Hello, This is robotic chatbot created by ARBAZ KHAN. You can use this bot for home automation. Nice to chat with you.):")
+			bot.sendMessage(chat_id, "Hello, This is robotic chatbot created by ARBAZ KHAN. You can use this bot for home automation. Nice to chat with you.):")
 
 		if 'on' in command:
 			ser.write(b'Y')
