@@ -70,7 +70,14 @@ python train.py
 ```
 python main.py
 ```
-
+*Run main_botton.py if you want to add a botton functionality and connect the booton with GPIO 26*
+```
+python main_botton.py
+```
+*Run main_motion.py if you want to add Motion sensor functionality and connect the Motion Sensor with GPIO 4*
+```
+python main_motion.py
+```
 
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
