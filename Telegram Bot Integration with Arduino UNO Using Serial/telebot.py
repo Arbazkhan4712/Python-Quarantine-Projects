@@ -2,7 +2,7 @@ import telepot, time, serial
 from serial import Serial
 ser = serial.Serial('com3', 9600)
 
-def sreebot(msg):
+def bot(msg):
 
 	userName = msg['from']['first_name']+" "+msg['from']['last_name']
 
@@ -13,7 +13,7 @@ def sreebot(msg):
 		print ('Got command: %s' % command)
 
 		if  'hello' in command:
-			bot.sendMessage(chat_id, "Hello , Hello, This is robotic chatbot created by Shreekant Gosavi. You can use this bot for home automation. Nice to chat with you.):")
+			bot.sendMessage(chat_id, "Hello , Hello, This is robotic chatbot created by ARBAZ KHAN. You can use this bot for home automation. Nice to chat with you.):")
 
 		if 'on' in command:
 			ser.write(b'Y')
@@ -24,8 +24,8 @@ def sreebot(msg):
 			bot.sendMessage(chat_id, "Lamp OFF")
 
 
-bot = telepot.Bot('971334691:AAH4vXJSGjbA7d_YkB6mx8CQvzGwvEc421c')
-bot.message_loop(sreebot)
+bot = telepot.Bot('')# add your api key
+bot.message_loop(bot)
 
 
 while 1:
