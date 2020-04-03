@@ -21,18 +21,18 @@ Guys drop your project ideas here one by one we will start workig on it
 
 ## Projects Completed 
 
-1.Wallpapers Script --- Done👍
+1.Instagram Image Downloader --- Created by - [Mitesh](https://github.com/Mitesh2499) 
 
 2.Django Blog website --- Created by - [Mahesh Sawant](https://github.com/smahesh29) 
   For Working and other details check - [Django-Blog](https://github.com/smahesh29/Django-Blog)
   
-3.High Qulity YouTube Video Downloader --- Done 👍  Create an UI for this
+3.High Qulity YouTube Video Downloader 
 
 4.Making a security camera using laptop webcam and streaming it on local network using flask --- Almost Done by [tushar-mehndiratta](https://github.com/tushar-mehndiratta)
 
-5.GitHub Repo Automation --- Done 👍
+5.GitHub Repo Automation 
 
-6.Telegram Bot Integration with Arduino UNO Using Serial --- Done 👍
+6.Telegram Bot Integration with Arduino UNO Using Serial 
 
 7.PDF Book Reader with Voice Using pyttsx3 
 
@@ -43,6 +43,8 @@ Guys drop your project ideas here one by one we will start workig on it
 10.Spell Checker
 
 11.News Updater With Voice
+
+12.Wallpaper Changer 
 
 
 [![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/0)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/0)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/1)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/1)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/2)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/2)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/3)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/3)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/4)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/4)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/5)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/5)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/6)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/6)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/7)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/7)
