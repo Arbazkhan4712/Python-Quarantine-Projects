@@ -6,7 +6,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 1.Making a security camera using laptop webcam and streaming it on local network using flask
 
-2.Face Recognition Attendence (integration with CCTVs and DVR ) --- Need help in this
+2.Raspberry Pi Spy Bot
 
 3.To make color based detection and tracking the object using openCV 
 
@@ -52,7 +52,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 12.Wallpaper Changer 
 
-13.Face Recognition Attendence with AWS Rekognition & Raspberry Pi3
+13.Face Recognition Attendence System with AWS Rekognition & Raspberry Pi3
 
 14.Face Recognition Door Lock with AWS Rekognition & Raspberry Pi3
 
