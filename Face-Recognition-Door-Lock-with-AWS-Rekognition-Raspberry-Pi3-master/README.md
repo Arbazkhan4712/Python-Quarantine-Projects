@@ -66,7 +66,7 @@ directory = '' #folder name on your raspberry pi
 python train.py
 ```
 
-*Run main.py File on RPI*
+*Run main.py File on RPI ,connect the booton with GPIO 26* 
 ```
 python main.py
 ```
