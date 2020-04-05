@@ -20,9 +20,9 @@ Guys drop your project ideas here one by one we will start workig on it
 
 8.Telegram bot that can show movie ratings using python
 
-9. Arduino + Raspberry pi based robot car
+9.Arduino + Raspberry pi based robot car
 
-10. Raspberry Pi based video door bell using python
+10.Raspberry Pi based video door bell using python
 
 
 ## Projects Completed 
