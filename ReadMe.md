@@ -52,6 +52,9 @@ Guys drop your project ideas here one by one we will start workig on it
 
 12.Wallpaper Changer 
 
+13.Face Recognition Attendence with AWS Rekognition & Raspberry Pi3
+
+14.Face Recognition Door Lock with AWS Rekognition & Raspberry Pi3
 
 [![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/0)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/0)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/1)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/1)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/2)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/2)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/3)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/3)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/4)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/4)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/5)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/5)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/6)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/6)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/7)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/7)
 
