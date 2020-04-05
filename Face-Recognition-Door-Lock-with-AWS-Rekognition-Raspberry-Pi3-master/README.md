@@ -3,7 +3,28 @@ Face Recognition Door Lock with AWS Rekognition &amp; Raspberry Pi3 it works wit
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                  [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
-## Dependencies:
+
+## Hardware Requirements:
+
+#### 1.Raspberry Pi (Any Version Will Work)
+
+<img src="img/rpi.png">
+
+#### 2.Raspberry Pi Camera (Also USB Webcam Can Be Used)
+
+<img src="img/rpicam.jpg">
+
+#### 3.Push Button
+
+<img src="img/push.png">
+
+#### 4.Electric Door Lock
+
+<img src="img/edl.jpg" height="350">
+
+
+
+## Software Dependencies:
 
 *Python2*
 
