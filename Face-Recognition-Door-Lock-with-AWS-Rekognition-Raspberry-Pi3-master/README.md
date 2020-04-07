@@ -3,6 +3,10 @@ Face Recognition Door Lock with AWS Rekognition &amp; Raspberry Pi3 it works wit
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                  [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
+## Video 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mD8JOTDlbXE/0.jpg)](https://www.youtube.com/watch?v=mD8JOTDlbXE)
+
 
 ## Hardware Requirements:
 
