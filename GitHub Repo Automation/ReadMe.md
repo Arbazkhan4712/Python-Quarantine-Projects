@@ -16,3 +16,8 @@ username = "" #Insert your github username here
 password = "" #Insert your github password here
 
 ```
+
+## License & Copyright
+© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+
+Licensed under the [MIT License](License)
