@@ -26,6 +26,8 @@ Guys drop your project ideas here one by one we will start workig on it
 
 11.'Snake and Ladder' and 'Housii' game using python
 
+12.Work setup automation exe
+
 
 
 ## Projects Completed 
