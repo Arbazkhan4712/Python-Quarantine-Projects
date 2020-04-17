@@ -22,3 +22,9 @@ pip install opencv-python
 pip install Pillow
 ```
 
+
+## License & Copyright
+© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+
+Licensed under the [MIT License](License)
+
