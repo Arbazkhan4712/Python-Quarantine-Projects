@@ -21,6 +21,26 @@ pip install opencv-python
 
 pip install Pillow
 ```
+# Run:
+
+*Run this for real time game play on open-cv*
+```python
+
+python GTA_1.py
+```
+
+
+*Run this for sending data to the game like Cheats and Control the Player in the game*
+```python
+
+python GTA_2.py
+```
+
+*Run this for Gesture Control*
+```python
+
+python GestureControl.py
+```
 
 
 ## License & Copyright
