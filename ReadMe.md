@@ -28,6 +28,8 @@ Guys drop your project ideas here one by one we will start workig on it
 
 12.Gesture Control Media Player
 
+13.Face & Eyes Recognition Using Open-CV + Haar-Cascade
+
 
 
 ## Projects Completed 
