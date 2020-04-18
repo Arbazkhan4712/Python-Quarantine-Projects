@@ -12,6 +12,12 @@
 pip install opencv-python
 ```
 
+# Run:
+*Detection*
+```python
+
+python Detection.py
+```
 
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
