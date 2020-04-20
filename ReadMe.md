@@ -72,6 +72,8 @@ Guys drop your project ideas here one by one we will start workig on it
 
 21. Python Weather Forecaster
 
+22. Python Stock-Prediction
+
 
 
 
