@@ -74,7 +74,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 22. Python Stock-Prediction
 
-23. Tkinter Tic-Tac-Toe
+23.AI Tkinter Tic-Tac-Toe
 
 
 
