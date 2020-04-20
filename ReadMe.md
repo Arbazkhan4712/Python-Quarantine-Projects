@@ -76,6 +76,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 23.AI Tkinter Tic-Tac-Toe
 
+24. AI turtle tic-tac-toe
 
 
 
