@@ -70,13 +70,13 @@ Guys drop your project ideas here one by one we will start workig on it
 
 20.Gesture Control Media Player
 
-21. Python Weather Forecaster
+21.Python Weather Forecaster
 
-22. Python Stock-Prediction
+22.Python Stock-Prediction
 
 23.AI Tkinter Tic-Tac-Toe
 
-24. AI turtle tic-tac-toe
+24.AI turtle tic-tac-toe
 
 
 
