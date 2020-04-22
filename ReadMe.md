@@ -78,7 +78,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 24.AI turtle tic-tac-toe
 
-25. Python lane-finder for Self-Driving vehicles
+25.Python lane-finder for Self Driving vehicles
 
 
 
