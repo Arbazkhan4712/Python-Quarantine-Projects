@@ -34,7 +34,7 @@ Guys drop your project ideas here one by one we will start workig on it
 2.Django Blog website --- Created by - [Mahesh Sawant](https://github.com/smahesh29) 
   For Working and other details check - [Django-Blog](https://github.com/smahesh29/Django-Blog)
   
-3.High Qulity YouTube Video Downloader 
+3.High Qulity YouTube Video Downloader  --[Sairoyal](https://github.com/sairoyal007)
 
 4.Making a security camera using laptop webcam and streaming it on local network using flask --- Almost Done by [tushar-mehndiratta](https://github.com/tushar-mehndiratta)
 
@@ -48,7 +48,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 9.Voice Translator
 
-10.Spell Checker
+10.Spell Checker  --- Created by ---[Yashagarwal](https://github.com/yashagarwal1999)
 
 11.News Updater With Voice
 
@@ -58,7 +58,7 @@ Guys drop your project ideas here one by one we will start workig on it
 
 14.Face Recognition Door Lock with AWS Rekognition & Raspberry Pi3
 
-15.Encryption system
+15.Encryption system --- Created by ---[Divakar](https://github.com/rexdivakar)
 
 16.Work Setup Automation EXE
 
@@ -70,17 +70,17 @@ Guys drop your project ideas here one by one we will start workig on it
 
 20.Gesture Control Media Player
 
-21.Python Weather Forecaster
+21.Python Weather Forecaster --- Created by --- [Buabaj](https://github.com/buabaj)
 
-22.Python Stock-Prediction
+22.Python Stock-Prediction --- Created by --- [Buabaj](https://github.com/buabaj)
 
-23.AI Tkinter Tic-Tac-Toe
+23.AI Tkinter Tic-Tac-Toe --- Created by --- [Buabaj](https://github.com/buabaj)
 
-24.AI turtle tic-tac-toe
+24.AI turtle tic-tac-toe --- Created by --- [Buabaj](https://github.com/buabaj)
 
-25.Python lane-finder for Self Driving vehicles
+25.Python lane-finder for Self Driving vehicles  --- Created by --- [Buabaj](https://github.com/buabaj)
 
-26.Duplication Identifyer
+26.Duplication Identifyer  --- Created by ---[Divakar](https://github.com/rexdivakar)
 
 
 
