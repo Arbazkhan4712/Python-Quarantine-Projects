@@ -1,0 +1,4 @@
+nltk==3.4.5
+tweepy==3.8.0
+rake_nltk==1.0.4
+tqdm==4.36.1
