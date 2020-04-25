@@ -1,0 +1,6 @@
+with open('some_file_1.txt', 'r') as file1:
+    with open('some_file_2.txt', 'r') as file2:
+        same = set(file1).intersection(file2)
+
+same.discard('\n')
+
