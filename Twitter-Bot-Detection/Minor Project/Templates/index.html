@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Home Page
+</title>
+</head>
+<body>
+	<h3>Twitter Bot Prediction Form</h3> 
+<form action= "{{ url_for('predict')}}" method="POST">
+<!--<input type="number" class="form-control" placeholder="id" name="id"  data-error="Subject field is required" required />-->
+<!--<input type="number" class="form-control" placeholder="id_str" name="id_str"data-error="Subject field is required" required/>-->
+<input type="text" class="form-control" placeholder="screen_name" name="screen_name" data-error="Subject field is required" required/>
+<!--<input type="text" class="form-control" placeholder="location" name="location"  data-error="Subject field is required" required/>-->
+<input type="text" class="form-control" placeholder="description" name="description"  data-error="Subject field is required" required/><br><br>
+<!--<input type="text" class="form-control" placeholder="url" name="url"  data-error="Subject field is required" required/><br/><br/>-->
+<!--<input type="number" class="form-control" placeholder="followers_count" name="followers_count"  data-error="Subject field is required" required/>
+<input type="number" class="form-control" placeholder="friends_count" name="friends_count"  data-error="Subject field is required" required/>
+<input type="number" class="form-control" placeholder="listed_count" name="listed_count"  data-error="Subject field is required" required/><br/><br/>
+<input type="text" class="form-control" placeholder="created_at" name="created_at"  data-error="Subject field is required" required/><br/><br/>
+<input type="number" class="form-control" placeholder="favourites_count" name="favourites_count"  data-error="Subject field is required" required/><br/><br/>-->
+<label for="verified">Verified</label>
+<select id="verified" name="verified">
+	<option value="0">0</option> 
+	<option value="1">1</option> 
+<!--<input type="number" class="form-control" placeholder="verified" name="verified"  data-error="Subject field is required" required/>-->
+
+<!--<input type="number" class="form-control" placeholder="statuses_count" name="statuses_count"  data-error="Subject field is required" required/><br/><br/>
+<input type="text" class="form-control" placeholder="lang" name="lang"  data-error="Subject field is required" required/><br/><br/>-->
+<!--<input type="text" class="form-control" placeholder="status" name="status"  data-error="Subject field is required" required/>
+<input type="text" class="form-control" placeholder="default_profile" name="default_profile"  data-error="Subject field is required" required/><br/><br/>
+<input type="text" class="form-control" placeholder="default_profile_image" name="default_profile_image"  data-error="Subject field is required" required/><br/><br/>
+<input type="text" class="form-control" placeholder="has_extended_profile	" name="has_extended_profile"  data-error="Subject field is required" required/><br/><br/>
+<input type="text" class="form-control" placeholder="name" name="name"  data-error="Subject field is required" required/><br/><br/>
+<input type="number" class="form-control" placeholder="bot" name="bot"  data-error="Subject field is required" required/><br/><br/>-->
+<input type="submit" name="Predict" value="Predict">
+</form>
+                      
+{{ prediction }}  
+           
+                                    
+<!--<form action="/predict" method="post">
+	<input type="number" name="id">
+	<br>
+
+	<input type="text" name="string" placeholder="enter text">
+	<button type="submit" value="predict"></button>
+	
+</form>
+<--{% if data %}
+	<p>it is bot:{{data}}</p>
+	{% endif %} -->
+</body>
+</html>
