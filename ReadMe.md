@@ -70,6 +70,7 @@
 
 32.Raspberry Pi Sonoff
 
+33.Covid-19-Update-Bot
 
 ## Project In Progress :
 
