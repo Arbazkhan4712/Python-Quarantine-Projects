@@ -72,6 +72,8 @@
 
 33.Covid-19-Update-Bot
 
+34.simple PyQt5 Password generator by [Thicc1](https://github.com/Thicc1)
+
 ## Project In Progress :
 
 Guys drop your project ideas here one by one we will start workig on it
