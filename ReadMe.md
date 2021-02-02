@@ -73,6 +73,7 @@
 33.Covid-19-Update-Bot
 
 34.simple PyQt5 Password generator by [Thicc1](https://github.com/Thicc1)
+35.Color based detection and Object tracking using OpenCV --- Created by ---[pyGuru](https://github.com/pyguru123)
 
 ## Project In Progress :
 
@@ -80,23 +81,21 @@ Guys drop your project ideas here one by one we will start workig on it
 
 1.Raspberry Pi Spy Bot
 
-2.To make color based detection and tracking the object using openCV 
+2.Making an AI that can Play GTA San Andreas Using Python --- Working On it  --- NEED HELP IN THIS
 
-3.Making an AI that can Play GTA San Andreas Using Python --- Working On it  --- NEED HELP IN THIS
+3.ToDo List App using Android & Java --- Work in Progress
 
-4.ToDo List App using Android & Java --- Work in Progress
+4.Typing Speed test using a GUI
 
-5.Typing Speed test using a GUI
+5.Internet Speed Meter GUI 
 
-6.Internet Speed Meter GUI 
+6.Telegram bot that can show movie ratings using python
 
-7.Telegram bot that can show movie ratings using python
+7.Arduino + Raspberry pi based robot car
 
-8.Arduino + Raspberry pi based robot car
+8.Raspberry Pi based video door bell using python
 
-9.Raspberry Pi based video door bell using python
-
-10.'Snake and Ladder' and 'Housii' game using python
+9.'Snake and Ladder' and 'Housii' game using python
 
 
 [![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/0)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/0)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/1)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/1)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/2)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/2)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/3)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/3)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/4)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/4)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/5)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/5)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/6)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/6)[![](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/images/7)](https://sourcerer.io/fame/Arbazkhan4712/Arbazkhan4712/Python-Quarantine-Projects/links/7)
