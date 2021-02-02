@@ -73,6 +73,7 @@
 33.Covid-19-Update-Bot
 
 34.simple PyQt5 Password generator by [Thicc1](https://github.com/Thicc1)
+
 35.Color based detection and Object tracking using OpenCV --- Created by ---[pyGuru](https://github.com/pyguru123)
 
 ## Project In Progress :
