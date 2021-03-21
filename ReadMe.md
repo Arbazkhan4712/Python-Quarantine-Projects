@@ -76,6 +76,8 @@
 
 35.Color based detection and Object tracking using OpenCV --- Created by ---[pyGuru](https://github.com/pyguru123)
 
+36.To-DO List App Using FLask [ToDOList](https://todo-list-1010.herokuapp.com/)
+
 ## Project In Progress :
 
 Guys drop your project ideas here one by one we will start workig on it
