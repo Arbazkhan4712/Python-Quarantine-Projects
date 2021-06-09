@@ -3,7 +3,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                  [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) [![GitHub forks](https://img.shields.io/github/forks/arbazkhan4712/Python-Quarantine-Projects?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)                 [![GitHub star](https://img.shields.io/github/stars/arbazkhan4712/Python-Quarantine-Projects?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
 
-## Projects Completed 
+## Projects Completed :
 
 1.Instagram Image Downloader --- Created by - [Mitesh](https://github.com/Mitesh2499) 
 
@@ -77,6 +77,8 @@
 35.Color based detection and Object tracking using OpenCV --- Created by ---[pyGuru](https://github.com/pyguru123)
 
 36.To-DO List App Using FLask [ToDOList](https://todo-list-1010.herokuapp.com/)
+
+37.Snake Game by [Suhas B](https://github.com/SuhasBRao)
 
 ## Project In Progress :
 
