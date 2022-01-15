@@ -1,0 +1,69 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block content %}
+
+{% include 'partials/_alerts.html' %}
+
+<div class="card">
+    <div class="card-header">
+        <h2>Employee Registration</h2>
+    </div>
+    <div class="card-body">
+        <form action="" method="POST" enctype="multipart/form-data">
+
+            <div class="card">
+                <div class="card-header">Official Details</div>
+                <hr>
+                <div class="card-body">
+                    {% csrf_token %}
+                    <div class="row">
+                        <div class="form-group col-sm-6">
+                            <label for="reg_input_name" class="req">Register Number</label>
+                            <input class="form-control" name="Student[student_admissionno]" type="text" maxlength="45">
+                        </div>
+                        <div class="form-group col-sm-6">
+                            <label for="reg_input_name" class="req">Register Date</label>
+                            <input class="form-control" name="Student[student_admissionno]" type="text">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">Personal Details</div>
+                <hr>
+                <div class="card-body">
+                    {% csrf_token %}
+                    <div class="row">
+                        <div class="form-group col-sm-4">
+                            <label for="reg_input_name" class="req">Full Name</label>
+                            <input class="form-control" name="Student[student_admissionno]" type="text" maxlength="45">
+                        </div>
+                        <div class="form-group col-sm-4">
+                            <label for="reg_input_name" class="req">Date of Birth</label>
+                            <input class="form-control" name="Student[student_admissionno]" type="text">
+                        </div>
+                        <div class="form-group col-sm-4">
+                            <label for="reg_input_name" class="req">Another Name</label>
+                            <input class="form-control" name="Student[student_admissionno]" type="text">
+                        </div>
+                        <div class="form-group col-sm-6">
+                            <label for="reg_input_name" class="req">NID</label>
+                            <input class="form-control" name="Student[student_admissionno]" type="text">
+                        </div>
+                        <div class="form-group col-sm-6">
+                            <label for="reg_input_name" class="req">Photo</label>
+                            <input class="form-control" name="Student[student_admissionno]" type="text">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+
+{% endblock %}
+
