@@ -1,0 +1,73 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col-lg-7">
+        <div class="card">
+            <div class="card-header">
+                 <i class="fa fa-align-justify"></i> Teacher Information
+            </div>
+            <div class="card-body">
+                <tbody>
+                    <tr>
+                        <td>Full Name: {{ single_teacher.name }}</td>
+                        <br>
+                        <td>Email: {{ single_teacher.email }}</td>
+                        <br>
+                        <td>Age: {{ single_teacher.age }}</td>
+                        <br>
+                        <td>Gender: {{ single_teacher.gender }}</td>
+                        <br>
+                        <td>Joining Date: {{ single_teacher.joining_date }}</td>
+                        <br>
+                        <td>Passing Year: {{ single_teacher.passing_year }}</td>
+                    </tr>
+                </tbody>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-5">
+        <div class="card">
+            <div class="card-header">
+                 <i class="fa fa-align-justify"></i> Teachers Personal Info
+            </div>
+            <div class="card-body">
+
+                <h6>Department: {{ single_teacher.dept_type }}</h6>
+                <h6>Subject: {{ single_teacher.sub_type }}</h6>
+                <h6>Salary: BDT {{ single_teacher.salary }} /-</h6>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-5">
+        <div class="card">
+            <div class="card-header">
+                 <i class="fa fa-align-justify"></i> Teachers Personal Info
+            </div>
+            <div class="card-body">
+
+                <h6>Department: {{ single_teacher.dept_type }}</h6>
+                <h6>Subject: {{ single_teacher.sub_type }}</h6>
+                <h6>Salary: BDT {{ single_teacher.salary }} /-</h6>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-7">
+        <div class="card">
+            <div class="card-header">
+                 <i class="fa fa-align-justify"></i> Teachers Image
+            </div>
+            <div class="card-body">
+                <img src="{{ single_teacher.teacher_img.url }}" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+

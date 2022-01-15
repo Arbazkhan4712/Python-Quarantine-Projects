@@ -1,0 +1,86 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col-lg-7">
+        <div class="card">
+            <div class="card-header">
+                 <i class="fa fa-align-justify"></i> Students Academic Info
+            </div>
+            <div class="card-body">
+                <tbody>
+                    <tr>
+                        <td>Academic Year: {{ single_student.academic_year }}</td>
+                        <br>
+                        <td>Admission Date: {{ single_student.admission_date }}</td>
+                        <br>
+                        <td>Admission ID: {{ single_student.admission_id }}</td>
+                        <br>
+                        <td>Class: {{ single_student.class_type }}</td>
+                        <br>
+                        <td>Section: {{ single_student.section_type }}</td>
+                        <br>
+                        <td>Shift: {{ single_student.shift_type }}</td>
+                    </tr>
+                </tbody>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-5">
+        <div class="card">
+            <div class="card-header">
+                 <i class="fa fa-align-justify"></i> Students Personal Info
+            </div>
+            <div class="card-body">
+
+                <h6>{{ single_student.name }}</h6>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-6">
+        <div class="card">
+            <div class="card-header">
+                 <i class="fa fa-align-justify"></i> Fathers Info
+            </div>
+            <div class="card-body">
+                <tbody>
+                    <tr>
+                        <td>Fathers Name: {{ single_student.fathers_name }}</td>
+                        <br>
+                        <td>Fathers NID: {{ single_student.fathers_nid }}</td>
+                        <br>
+                        <td>Contact Number: {{ single_student.fathers_number }}</td>
+                        <br>
+                    </tr>
+                </tbody>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div class="card">
+            <div class="card-header">
+                 <i class="fa fa-align-justify"></i> Mothers Info
+            </div>
+            <div class="card-body">
+                <tbody>
+                    <tr>
+                        <td>Mothers Name: {{ single_student.mothers_name }}</td>
+                        <br>
+                        <td>Mothers NID: {{ single_student.mothers_nid }}</td>
+                        <br>
+                        <td>Contact Number: {{ single_student.mothers_number }}</td>
+                        <br>
+                    </tr>
+                </tbody>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
