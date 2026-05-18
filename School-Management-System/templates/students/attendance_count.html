@@ -1,0 +1,42 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block content %}
+
+<div class="card">
+    <div class="card-header">
+        <h1>Attendance Count</h1>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6">
+                <form action="" method="GET">
+                    Class: <input type="text" name="class_name" class="form-control">
+                    <input type="submit" value="Submit" class="btn btn-primary">
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% if student_list %}
+    <table class="table table-responsive-sm table-bordered table-striped table-sm">
+        <tr>
+            <th>Name</th>
+            <th>Admission ID</th>
+            <th>Class</th>
+            <th>Action</th>
+        </tr>
+        {% for std_list in student_list %}
+            <tr>
+                <td class="cls_name">{{ std_list.name }}</td>
+                <td class="cls_admission">{{ std_list.admission_id }}</td>
+                <td class="cls_class">{{ std_list.class_type.class_short_form }}</td>
+                <td><button class="count_btn">Present</button></td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endif %}
+
+{% endblock %}
+

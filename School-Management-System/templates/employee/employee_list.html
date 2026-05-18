@@ -1,0 +1,58 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block content %}
+
+{% include 'partials/_alerts.html' %}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header">
+                <i class="fa fa-align-justify"></i> Teachers List</div>
+            <div class="card-body">
+                <table class="table table-responsive-sm table-bordered table-striped table-sm">
+                    <thead>
+                        <tr>
+                            <th>SL</th>
+                            <th>Regi. Number</th>
+                            <th>Regi. Date</th>
+                            <th>Name</th>
+                            <th>DOB</th>
+                            <th>NID</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% if official_info %}
+                            {% for ofc_info in official_info %}
+                                <tr>
+                                    <td>{{ forloop.counter }}</td>
+                                    <td>{{ ofc_info.official_register_number }}</td>
+                                    <td>{{ ofc_info.official_register_date }}</td>
+                                    <td>{{ teacher.dept_type }}</td>
+                                    <td>{{ teacher.sub_type }}</td>
+                                    <td>{{ teacher.joining_date }}</td>
+                                    <td>
+                                        <a href="#">
+                                            <button type="button" class="btn btn-primary">Details</button>
+                                        </a>
+                                        <a href="#">
+                                            <button type="button" class="btn btn-info"><i class="fa fa-edit"></i></button>
+                                        </a>
+                                        <a href="#">
+                                            <button type="button" class="btn btn-danger">X</button>
+                                        </a>
+                                    </td>
+                                </tr>
+                            {% endfor %}
+                        {% endif %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
